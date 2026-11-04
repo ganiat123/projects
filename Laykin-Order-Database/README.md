@@ -29,6 +29,7 @@ during normalization. The EER diagram is in `LaykinOrderTyagi.mwb` (also exporte
 - `laykin_schema.sql` - creates the tables, loads the data and adds foreign keys
 - `Project1Tyagi.sql` - queries, one additional query per category, and a view
 - `LaykinOrderEERDiagram.png` - image of the EER diagram
+- `LaykinConsultingOrderData.xlsx` - laykinConsulting data spreadsheet 
 
 ## How to run
 1. Create a schema (for example `LaykinOrderTyagi`) in MySQL Workbench.
